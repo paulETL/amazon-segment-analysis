@@ -1,0 +1,4 @@
+panads
+beautifulsoup4
+lxml
+jupyter

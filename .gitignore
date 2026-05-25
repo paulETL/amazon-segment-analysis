@@ -1,0 +1,48 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp/cache
+*.tmp
+*.bak
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/
+
+# Python packaging
+*.egg-info/
+
+# SQLite databases
+*.sqlite3
+
+# Mac/Linux hidden files
+.*.swp
+
+# Ignore large temporary exports
+*.zip
+*.7z
+
